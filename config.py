@@ -1,1 +1,1 @@
-USER_AGENT = penguin12
+USER_AGENT "penguin12"
